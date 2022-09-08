@@ -1,5 +1,5 @@
 C - Stacks, Queues - LIFO, FIFO
-Group project  and Elizabeth Wanjiru
+Group project by Lahat Mariel and Elizabeth Wanjiru
 
 Description
 
